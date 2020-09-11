@@ -1,0 +1,4 @@
+rencana program
+
+- membuat website sederhana
+- membuat website dengan kemampuan yang ada
