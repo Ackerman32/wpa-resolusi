@@ -1,4 +1,5 @@
 rencana program
 
 - membuat website sederhana
+- berdoa selalu utama
 - membuat website dengan kemampuan yang ada
